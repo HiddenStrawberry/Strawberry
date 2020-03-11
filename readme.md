@@ -14,7 +14,7 @@
 - 支持SSH-Tunnel、HTTP/HTTPS代理等多种代理方式
 
 ### 支持JS渲染
-- 云端集成Splash、puppeteer等多种抓取方式，可直接通过客户端yield Request()指定客户端参数即可，无需额外设置。
+- 云端集成Splash/puppeteer/Selenium等多种抓取方式，可直接通过客户端yield Request()指定客户端参数即可，无需额外设置。
 
 ### 众包解析
 - 支持Python代码在线编译，可通过Panel直接在线上编辑Python代码并运行。
