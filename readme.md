@@ -1,6 +1,6 @@
 # Strawberry
 
-致力于构建中国特色社会主义新爬虫Framework
+致力于构建中国特色社会主义的基于Scrapy的特色版爬虫Framework
 
 ## Strawberry 的目标
 
